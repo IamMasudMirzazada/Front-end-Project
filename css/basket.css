@@ -1,0 +1,24 @@
+.table img{
+    width: 200px;
+    height: 150px;
+} 
+i{
+    cursor: pointer;
+}
+.card img{
+     height: 100%;
+   
+}
+ 
+.card{
+    text-align: center;
+}
+.card .btn{
+background-color: rgb(73, 73, 73);
+border-radius: 30px;
+border: none;
+margin-top: 20px;
+}
+.card-body{
+    background-color: rgb(235, 231, 231);
+}
